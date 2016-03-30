@@ -1,0 +1,8 @@
+html {}
+body { margin: 0px; color: #333; font-size: 0px; font-family: verdana; text-align: center;}
+
+h1, h2, h3, h4, h5, h6 { margin: 0;}
+p { margin: 0;}
+
+.bloc { display: block; width: 100%;}
+	.bloc > .bloc_content { display: block; box-sizing: border-box; max-width: 1024px; margin: auto; padding: 16px;}

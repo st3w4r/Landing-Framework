@@ -1,0 +1,27 @@
+html {}
+body { margin: 0px; color: #333; font-size: 0px; font-family: verdana; text-align: center;}
+
+h1, h2, h3, h4, h5, h6 { margin: 0;}
+p { margin: 0;}
+
+.bloc { display: block; width: 100%;}
+	.bloc > .bloc_content { display: block; box-sizing: border-box; max-width: 1024px; margin: auto; padding: 16px;}
+
+/* bloc_1 */
+.bloc_1 { background: #ddd;}
+	.bloc_1 h2 { padding: 64px 0px; font-size: 32px;}
+	.bloc_1 .column { display: inline-block; vertical-align: top; width: 33.333%;}
+		.bloc_1 .column img { width: 75%;}
+		.bloc_1 .column p { padding: 16px; font-size: 16px;}
+
+/* bloc_2 */
+.bloc_2 { background: #eee;}
+	.bloc_2 h2 { padding: 64px 0px; font-size: 32px;}
+	.bloc_2 .column { display: inline-block; vertical-align: top; width: 50%;}
+		.bloc_2 .column img { width: 75%;}
+		.bloc_2 .column p { padding: 16px; font-size: 16px;}
+
+/* bloc_3 */
+.bloc_3 { background: #ddd;}
+	.bloc_3 h2 { padding: 64px 0px; font-size: 32px;}
+	.bloc_3 p { padding: 16px; font-size: 16px;}
