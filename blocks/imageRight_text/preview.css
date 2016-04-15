@@ -15,4 +15,4 @@ p { margin: 0;}
 
 .imageRight_text { padding: 64px 0px;}
 	.imageRight_text img { height: 150px; width: 150px; display: inline-block; position: relative; right: -10%; top: 0px;}
-	.imageRight_text p { display: inline-block; position: relative; text-align: right;  box-sizing: border-box; max-width: 600px; line-height: 32px; padding: 0px 9px; font-size: 16px; font-weight: 300;}
+	.imageRight_text p { display: inline-block; position: relative; text-align: left;  box-sizing: border-box; max-width: 600px; line-height: 32px; padding: 0px 9px; font-size: 16px; font-weight: 300;}
