@@ -22,11 +22,11 @@ function buildFirst() {
       }))
       .use(concat({
         files: '**/*.css',
-        output: 'home.css'
+        output: 'landing_page.css'
       }))
       .use(concat({
         files: '**/*.js',
-        output: 'home.js'
+        output: 'landing_page.js'
       }))
 			.build((err) => {
 				if (err) reject();

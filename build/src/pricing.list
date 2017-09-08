@@ -2,8 +2,8 @@
 blocks: [
 'start_page.html',
 'block_1/block_1.html',
-'block_1/block_1.html',
-'block_1/block_1.html',
+# 'block_1/block_1.html',
+# 'block_1/block_1.html',
 'end_page.html'
 ]
 ---

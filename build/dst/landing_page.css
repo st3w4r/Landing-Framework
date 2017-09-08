@@ -1,0 +1,6 @@
+.block_1 { background: #ddd;}
+	.block_1 h2 { padding: 64px 0px; font-size: 32px;}
+	.block_1 .column { display: inline-block; vertical-align: top; width: 33.333%;}
+		.block_1 .column img { width: 75%;}
+		.block_1 .column p { padding: 16px; font-size: 16px;}
+
