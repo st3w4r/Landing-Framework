@@ -1,0 +1,7 @@
+---
+blocks: [
+'start_page.html',
+'bloc_1.html',
+'end_page.html'
+]
+---

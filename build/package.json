@@ -1,0 +1,18 @@
+{
+  "name": "landing-framework",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yanael Barbier",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "debug": "^3.0.1",
+    "metalsmith": "^2.3.0",
+    "metalsmith-blocks-list": "git+https://github.com/st3w4r/metalsmith-blocks-list.git",
+    "metalsmith-concat": "^6.0.0"
+  }
+}
